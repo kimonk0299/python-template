@@ -1,4 +1,4 @@
-# Python Template Repository
+# Python Template  Repository
 
 This is a template repository for Python projects that provides a starting point for designing and developing Python applications. It includes a basic project structure, configuration for continuous integration, static analysis, code formatting, and more. You can use this template as a foundation for your Python projects.
 
