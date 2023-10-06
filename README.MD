@@ -25,8 +25,9 @@ run
    git clone https://github.com/kimonk0299/python-template.git
 
 3. **Codes to run**: 
-    -> python -m unittest test.test_hello
-    -> flak8 
-    -> black . 
+   ```sh
+   python -m unittest test.test_hello
+   flake8
+   black .
 
 
