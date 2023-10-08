@@ -5,5 +5,4 @@ exclude =
     __pycache__,
     .venv,
     tests
-filename = src/*
 
